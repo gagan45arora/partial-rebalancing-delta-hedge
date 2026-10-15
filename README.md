@@ -46,4 +46,8 @@ Tested with Python 3.8.10, NumPy 1.24.4, SciPy 1.10.1, Matplotlib 3.7.5, pandas 
 
 ## Author
 
-Gagandeep Singh — M.Sc. Physics, TIFR (2024). Independent work. gagan45arora@gmail.com
+Gagandeep Singh — Independent Researcher (M.Sc. Physics, TIFR, 2024). gagan45arora@gmail.com
+
+## AI disclosure
+
+An AI assistant (Claude, Anthropic) was used to draft the text, write the code and produce the figures. The author formulated the problem, directed the analysis, reviewed the derivations, code and results, and takes full responsibility for the content.
